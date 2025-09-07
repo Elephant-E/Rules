@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tungee.com", 
+        "weiwenjia.com", 
+        "tradesparq.com",
+        "micu.hk",
+        "hb56.com",
+        "gdtspace.com",
+        "hunan-bank.com"
+      ],
+      "domain": [        
+        "ggtcustomsbroker.com"
+      ]
+    }
+  ]
+}
