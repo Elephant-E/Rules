@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,ggt-broker.com
+DOMAIN-SUFFIX,tungee.com 
+DOMAIN-SUFFIX,tradesparq.com
+DOMAIN-SUFFIX,hb56.com
+DOMAIN-SUFFIX,gdtspace.com
+DOMAIN-SUFFIX,hunan-bank.com   
+DOMAIN,ggt-world.com
+DOMAIN-KEYWORD,emos
