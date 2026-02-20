@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "tideworks.io"
+        "tideworks.io",
+        "calcartage.com",
+        "fcllogistics.com"
       ]
     }
   ]
